@@ -10,4 +10,6 @@ Rozpoczęcie pracy na repozytorium git
 
 * Commit pierwszego kodu na repozytorium
 
+* Utworzenie token'a dla użytkownika
+
 * Merge requesta'a na repozytorium 
