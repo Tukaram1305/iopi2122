@@ -2,6 +2,10 @@
 
 using namespace std;
 
+int a = 1;
+
+int b = 2;
+
 int sum(int a, int b);
 
 int main(void)
