@@ -2,24 +2,21 @@
 
 using namespace std;
 
+int main(void)
+{
+  cout << "Witam Państwa Serdecznie !";
+  return 0;
+}
+
 int a = 1;
 
 int b = 2;
 
+int c = 3;
+
 int sum(int a, int b);
-
-int main(void)
-{
-  cout << "Hello World!";
-  return 0;
-}
-
 
 int sum(int a, int b)
 {
-	return (int)a+b;
+  return (int)a + b;
 }
-
-
-
-
