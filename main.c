@@ -14,6 +14,8 @@ int b = 2;
 
 int c = 3;
 
+float pi = 3.14;
+
 int sum(int a, int b);
 
 int sum(int a, int b)
